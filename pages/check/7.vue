@@ -3,6 +3,9 @@
     <div></div>
     {{ msg }}
   </div>
+  <div>
+      <NuxtLink to="/">Back</NuxtLink>
+    </div>
 </template>
 
 <script setup>
